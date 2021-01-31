@@ -3,6 +3,7 @@
 ## Overview of Project
 
 ### Purpose
+The purpose of this project is to help Louise understand the relation between the funding goals as well as the date of launch of a campaign and the outcome of the campaign.
 
 ## Analysis and Challenges
 
