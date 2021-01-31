@@ -15,13 +15,21 @@ From this pivot table I produced a linechart with the sum of each of the possibl
 
 ![](resources/Theater_Outcomes_vs_Launch.png)
 
-One challenge that i encountered was that i could not figure out how to hide the Pivot Chart filters so as to obtain a clean image with only the data.
-A google search took me to this [page](https://excellenttips.wordpress.com/2014/07/14/hide-pivot-chart-filters/) where i was shown how to do this.
-
-
 ### Analysis of Outcomes Based on Goals
+To analyze the relation between the initial goal set and the outcome for a play I created a table with  I broke the down the goal into 12 different levels (rows) and then in 3 individual counted the total number of plays that were successful, that failed and that were cancelled per goal range.  To calculate the number of campaigns that had succeeded, failed, or were cancelled per goal range, I used a COUNTIFS statement with 3 or 4 different conditions needed to be met: 
+
+1. campaign was a "play" 
+2. the goal was larger or equal to the lowest value in the goal range, 
+3. the goal was smaller or equal to the highest value in the goal range,
+4. the campaign outcome was defined
+
+an example of a such statement was this: '''=COUNTIFS(Data!R:R,"plays",Data!$D:$D,">=25000",Data!$D:$D,"<=29999",Data!$F:$F,"Canceled")'''
+
+
 
 ### Challenges and Difficulties Encountered
+One challenge that i encountered was that i could not figure out how to hide the Pivot Chart filters so as to obtain a clean image with only the data.
+A google search took me to this [page](https://excellenttips.wordpress.com/2014/07/14/hide-pivot-chart-filters/) where i was shown how to do this.
 
 ## Results
 
