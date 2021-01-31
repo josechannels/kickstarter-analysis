@@ -13,6 +13,8 @@ To analyze the relation between the outcome of a theater campaign and the date t
 
 From this pivot table I produced a linechart with the sum of each of the possible outcomes on the y-axis and the month the campaign was launched on the x-axis:
 
+![](resources/Theater_Outcomes_vs_Launch.png)
+
 
 
 ### Analysis of Outcomes Based on Goals
