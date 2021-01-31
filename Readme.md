@@ -13,7 +13,7 @@ To analyze the relation between the outcome of a theater campaign and the date t
 
 From this pivot table I produced a linechart with the sum of each of the possible outcomes on the y-axis and the month the campaign was launched on the x-axis:
 
-![](resources/Theater_Outcomes_vs_Launch.png)
+
 
 One challenge that i encountered was that i could not figure out how to hide the Pivot Chart filters so as to obtain a clean image with only the data.
 A google search took me to this [page](https://excellenttips.wordpress.com/2014/07/14/hide-pivot-chart-filters/) where i was shown how to do this.
