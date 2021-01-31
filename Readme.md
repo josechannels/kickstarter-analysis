@@ -16,7 +16,7 @@ From this pivot table I produced a linechart with the sum of each of the possibl
 ![](resources/Theater_Outcomes_vs_Launch.png)
 
 One challenge that i encountered was that i could not figure out how to hide the Pivot Chart filters so as to obtain a clean image with only the data.
-A google search took me to this page https://excellenttips.wordpress.com/2014/07/14/hide-pivot-chart-filters/ where i was shown how to do this.
+A google search took me to this [page](https://excellenttips.wordpress.com/2014/07/14/hide-pivot-chart-filters/) where i was shown how to do this.
 
 
 ### Analysis of Outcomes Based on Goals
