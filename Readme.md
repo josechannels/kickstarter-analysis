@@ -53,12 +53,14 @@ A second conclusion is that the number of campaigns that were cancelled in Janua
 The percent of successfull play campaigns is significantly higher for campaigns that had goals of less than $1000 or between $1000 (76%) and $4999 (73%).  This conclusion is based on the observation that the mean percent of successfull campaigns plus or minus 1 SD is 46+/-25%.  Two other goals came close to this success percentage: campaigns with goals between $35,000 and $39,999 and between $45,000 and $49,999 both had 67% successful campaigns. This analysis suggests that is may be difficult to use a campaign goal to predict its outcome.
 
 - What are some limitations of this dataset?
+
 Here is a list of information that I think is missing and could be helpful in the analysis:
 1) On what city did the campaign take place.
 2) Age range of target audience
 3) Number of attendees broken down by age group
 
 - What are some other possible tables and/or graphs that we could create?
+
 We could create a quartile analysis table and a "Box and Whisker" to quickly determine the mean, median and most importantly in these two analysis, the outliers.
 
 
