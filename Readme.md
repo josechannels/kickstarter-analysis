@@ -7,6 +7,9 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+To analyze the relation between the outcome of a theater campaign and the date the campaign was launched I created a pivot table from the master data filtered to contain only data from theater campaigns.  where the different outcomes were shown as columns and the total number of each outcome per month was shown in a row:
+
+![](
 
 ### Analysis of Outcomes Based on Goals
 
