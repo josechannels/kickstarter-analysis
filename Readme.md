@@ -39,6 +39,8 @@ A google search took me to this [page](https://excellenttips.wordpress.com/2014/
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+A first conclusion is that the largest number of successfull theater campaings were launched in May (111 successfull campaigns).  This number is three times higher than the number of successful campaigns launched in the month of December (lowest number of successfull campaings in a month).
+A second conclusion is that the number of campaigns that were cancelled per month was small compared to the number of campaigns that suceeded or failed: With the exception of the month of January when 7 campaigns were cancelled, in the rest of the months of the year, the number of canceled campaigns ranged between 2 and 4.
 
 - What can you conclude about the Outcomes based on Goals?
 
