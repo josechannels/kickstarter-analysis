@@ -27,6 +27,10 @@ an example of a such statement: ```=COUNTIFS(Data!R:R,"plays",Data!$D:$D,">=2500
 
 Here is what the table looked like:
 
+Using this table I constructed a line graph whre on the y-axis i plotted the percent of the campaigns that were successfull, failed and were cancelled and on the x-axis i ploted the campaign goal ranges:
+
+
+
 
 ### Challenges and Difficulties Encountered
 One challenge that i encountered was that i could not figure out how to hide the Pivot Chart filters so as to obtain a clean image with only the data.
