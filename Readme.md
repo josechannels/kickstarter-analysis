@@ -29,7 +29,7 @@ Here is what the table looked like:
 
 Using this table I constructed a line graph whre on the y-axis i plotted the percent of the campaigns that were successfull, failed and were cancelled and on the x-axis i ploted the campaign goal ranges:
 
-
+![](resources/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
