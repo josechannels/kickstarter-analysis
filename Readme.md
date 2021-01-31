@@ -16,16 +16,16 @@ From this pivot table I produced a linechart with the sum of each of the possibl
 ![](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-To analyze the relation between the initial goal set and the outcome for a play I created a table with  I broke the down the goal into 12 different levels (rows) and then in 3 individual counted the total number of plays that were successful, that failed and that were cancelled per goal range.  To calculate the number of campaigns that had succeeded, failed, or were cancelled per goal range, I used a COUNTIFS statement with 3 or 4 different conditions needed to be met: 
+To analyze the relation between the initial goal set and the outcome for a play I created a table with I broke the down the goal into 12 different levels (rows) and then in 3 additional columns counted the total number of plays that were successful, that failed and that were cancelled per goal range.  To accomplish this, I used a COUNTIFS statement with 3 or 4 different conditions that needed to be met: 
 
 1. campaign was a "play" 
 2. the goal was larger or equal to the lowest value in the goal range, 
 3. the goal was smaller or equal to the highest value in the goal range,
 4. the campaign outcome was defined
 
-an example of a such statement was this: 
-```=COUNTIFS(Data!R:R,"plays",Data!$D:$D,">=25000",Data!$D:$D,"<=29999",Data!$F:$F,"Canceled")```
+an example of a such statement: ```=COUNTIFS(Data!R:R,"plays",Data!$D:$D,">=25000",Data!$D:$D,"<=29999",Data!$F:$F,"Canceled")```
 
+Here is what the table looked like:
 
 
 ### Challenges and Difficulties Encountered
