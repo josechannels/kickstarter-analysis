@@ -23,7 +23,8 @@ To analyze the relation between the initial goal set and the outcome for a play 
 3. the goal was smaller or equal to the highest value in the goal range,
 4. the campaign outcome was defined
 
-an example of a such statement was this: '''=COUNTIFS(Data!R:R,"plays",Data!$D:$D,">=25000",Data!$D:$D,"<=29999",Data!$F:$F,"Canceled")'''
+an example of a such statement was this: 
+```=COUNTIFS(Data!R:R,"plays",Data!$D:$D,">=25000",Data!$D:$D,"<=29999",Data!$F:$F,"Canceled")```
 
 
 
