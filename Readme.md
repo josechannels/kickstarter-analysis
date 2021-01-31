@@ -27,6 +27,8 @@ an example of a such statement: ```=COUNTIFS(Data!R:R,"plays",Data!$D:$D,">=2500
 
 Here is what the table looked like:
 
+![](resources
+
 Using this table I constructed a line graph whre on the y-axis i plotted the percent of the campaigns that were successfull, failed and were cancelled and on the x-axis i ploted the campaign goal ranges:
 
 ![](resources/Outcomes_vs_Goals.png)
